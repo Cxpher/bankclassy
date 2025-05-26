@@ -18,17 +18,6 @@ It represents 17 marketing campaigns!
 
 It should have a baseline performance of at least 80% accuracy
 
-## Problem 10: Model Comparisons
-### Now, we aim to compare the performance of the Logistic Regression model to our KNN algorithm, Decision Tree, and SVM models. Using the default settings for each of the models, fit and score each. Also, be sure to compare the fit time of each of the models. Present your findings in a DataFrame similar to that below:
-
-### Model	Train Time	Train Accuracy	Test Accuracy
-
-                 Model  Train Time  Train Accuracy  Test Accuracy
-0  Logistic Regression      0.0269          0.8998         0.9012
-1                  KNN      0.0014          0.9115         0.8955
-2        Decision Tree      0.1099          0.9954         0.8410
-3                  SVM     26.1599          0.9092         0.9003
-
 ## Problem 11: Improving the Model
 ### Now that we have some basic models on the board, we want to try to improve these. Below, we list a few things to explore in this pursuit.
 ### More feature engineering and exploration. For example, should we keep the gender feature? Why or why not?
