@@ -22,7 +22,6 @@ It should have a baseline performance of at least 80% accuracy
 ### Now, we aim to compare the performance of the Logistic Regression model to our KNN algorithm, Decision Tree, and SVM models. Using the default settings for each of the models, fit and score each. Also, be sure to compare the fit time of each of the models. Present your findings in a DataFrame similar to that below:
 
 ### Model	Train Time	Train Accuracy	Test Accuracy
-### .	.
 
                  Model  Train Time  Train Accuracy  Test Accuracy
 0  Logistic Regression      0.0269          0.8998         0.9012
